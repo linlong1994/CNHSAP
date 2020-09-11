@@ -6,5 +6,25 @@ CNHSAP is a pipeline for cell-free non-human sequence identification and charact
            
 ![Image](https://github.com/linlong1994/CNHSAP/blob/master/pipeline.png)
 
+
 ## Requirements:
-perl: v5.22.0  
+
+python3: v3.6.1
+python2: v2.7.11 
+  
+Software for This pipeline:
+* [Kraken v2](https://ccb.jhu.edu/software/kraken2/index.shtml)
+* [bwa 0.7.17-r1188](https://github.com/lh3/bwa)
+* [Metaphlan2](https://github.com/biobakery/metaphlan)
+* [Samtools v1.9](http://samtools.sourceforge.net/)
+* [Bgzip v1.3](http://www.htslib.org/doc/bgzip.html)
+* [Tabix v1.3](http://www.htslib.org/doc/tabix.html)
+
+
+## Installation
+```
+git clone https://github.com/linlong1994/CNHSAP.git
+```
+Notes: The above dependent software needs to be installed separately according to their instructions.
+
+## Usage
