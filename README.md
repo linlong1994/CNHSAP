@@ -101,5 +101,14 @@ Columns are:
 Sample_id  Micro_species_name     Abundance Coverage
 ```
 
+## License
+
+BaseVarC and the code in this repo is available under a GPL3 license. For more information please see the [LICENSE](LICENSE)
+
+## Citation
+
+TBD
+
+
 
 
