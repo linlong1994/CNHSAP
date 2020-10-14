@@ -1,0 +1,4 @@
+Methanobrevibacter_smithii	A	/hwfssz5/ST_MCHRI/BIGDATA/USER/linlong/NoneHumanSequence/14wNonHuman/NHSAP/panel/karius/index/2/GCF_000016525.1_ASM1652v1_genomic.fna.gz
+Sulfolobus_solfataricus	A	/hwfssz5/ST_MCHRI/BIGDATA/USER/linlong/NoneHumanSequence/14wNonHuman/NHSAP/panel/all/all/2/46/GCF_000007005.1_ASM700v1_genomic.fna.gz
+Natronorubrum_tibetense	A	/hwfssz5/ST_MCHRI/BIGDATA/USER/linlong/NoneHumanSequence/14wNonHuman/NHSAP/panel/all/all/2/57/GCF_000383975.1_ASM38397v1_genomic.fna.gz
+Methanocaldococcus_villosus	A	/hwfssz5/ST_MCHRI/BIGDATA/USER/linlong/NoneHumanSequence/14wNonHuman/NHSAP/panel/all/all/2/58/GCF_000371805.1_ASM37180v1_genomic.fna.gz
